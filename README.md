@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 🌱 I’m currently learning JavaScript and Java
-## 📫 How to reach me: <a href="https://dc.masterbot.pl">Discord</a>, <a href="https://instagram/fikus1337">Instagram DM</a>
+## 📫 How to reach me: <a href="https://dc.masterbot.pl">Discord</a>, <a href="https://instagram.com/fikus1337">Instagram DM</a>
 ## 🔭 I’m currently working on <a href="https://masterbot.pl">masterBOT</a>, and Private Projects...
 
 <!--

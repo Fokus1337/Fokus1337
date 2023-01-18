@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## 🌱 I’m currently learning JavaScript and Java
 ## 📫 How to reach me: <a href="https://dc.masterbot.pl">Discord</a>
 

@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ## 🌱 I’m currently learning JavaScript and Java
 ## 📫 How to reach me: <a href="https://dc.masterbot.pl">Discord</a>, <a href="https://instagram.com/fikus2137">Instagram</a>
 ## 🔭 I’m currently working on <a href="https://masterbot.pl">masterBOT</a>, and Private Projects...

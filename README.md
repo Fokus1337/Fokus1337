@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning JavaScript and Java
-## 📫 How to reach me: <a>
+## 📫 How to reach me: <a href="https://dc.masterbot.pl">Discord</a>
 
 <!--
 **Fokus1337/Fokus1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
